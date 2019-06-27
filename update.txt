@@ -1,9 +1,9 @@
 {
-  "update": "Yes",//ÓĞĞÂ°æ±¾
-  "new_version": "1.0",//ĞÂ°æ±¾ºÅ
-  "apk_file_url": "https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/app-debug.apk", //apkÏÂÔØµØÖ·
-  "update_log": "1£¬Ìí¼ÓÉ¾³ıĞÅÓÃ¿¨½Ó¿Ú\r\n2£¬Ìí¼ÓvipÈÏÖ¤\r\n3£¬Çø·Ö×Ô¶¨ÒåÏû·Ñ£¬Ò»¸öĞ¡Ê±²»ÏŞÖÆ¡£\r\n4£¬Ìí¼Ó·ÅÆúÈÎÎñ½Ó¿Ú£¬Ğ¡Ê±ÄÚ²»Éú³É¡£\r\n5£¬Ïû·ÑÈÎÎñÊÖ¶¯Éú³É¡£",//¸üĞÂÄÚÈİ
-  "target_size": "5M",//apk´óĞ¡
+  "update": "Yes",//æœ‰æ–°ç‰ˆæœ¬
+  "new_version": "1.1",//æ–°ç‰ˆæœ¬å·
+  "apk_file_url": "https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/app-debug.apk", //apkä¸‹è½½åœ°å€
+  "update_log": "1ï¼Œæ·»åŠ åˆ é™¤ä¿¡ç”¨å¡æ¥å£\r\n2ï¼Œæ·»åŠ vipè®¤è¯\r\n3ï¼ŒåŒºåˆ†è‡ªå®šä¹‰æ¶ˆè´¹ï¼Œä¸€ä¸ªå°æ—¶ä¸é™åˆ¶ã€‚\r\n4ï¼Œæ·»åŠ æ”¾å¼ƒä»»åŠ¡æ¥å£ï¼Œå°æ—¶å†…ä¸ç”Ÿæˆã€‚\r\n5ï¼Œæ¶ˆè´¹ä»»åŠ¡æ‰‹åŠ¨ç”Ÿæˆã€‚",//æ›´æ–°å†…å®¹
+  "target_size": "5M",//apkå¤§å°
   "new_md5":"A818AD325EACC199BC62C552A32C35F2",
-  "constraint": false//ÊÇ·ñÇ¿ÖÆ¸üĞÂ
+  "constraint": false//æ˜¯å¦å¼ºåˆ¶æ›´æ–°
 }
